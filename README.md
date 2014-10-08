@@ -1,0 +1,1 @@
+A procedural bowling game to practice modelling problems in Ruby, prior to starting Tealeaf Academy's 'Introduction to Ruby and Web Development' Lesson 2.
